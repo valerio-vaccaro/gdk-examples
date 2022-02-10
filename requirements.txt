@@ -1,5 +1,5 @@
 jupyter
 # GDK
-https://github.com/Blockstream/gdk/releases/download/release_0.0.49/greenaddress-0.0.49-cp36-cp36m-linux_x86_64.whl; 'linux' in sys_platform and python_version == '3.6'
-https://github.com/Blockstream/gdk/releases/download/release_0.0.49/greenaddress-0.0.49-cp39-cp39-linux_x86_64.whl; 'linux' in sys_platform and python_version == '3.9'
-https://github.com/Blockstream/gdk/releases/download/release_0.0.49/greenaddress-0.0.49-cp39-cp39-macosx_11_0_x86_64.whl; 'darwin' in sys_platform and python_version == '3.7'
+https://github.com/Blockstream/gdk/releases/download/release_0.0.54/greenaddress-0.0.54-cp36-cp36m-linux_x86_64.whl; 'linux' in sys_platform and python_version == '3.6'
+https://github.com/Blockstream/gdk/releases/download/release_0.0.54/greenaddress-0.0.54-cp39-cp39-linux_x86_64.whl; 'linux' in sys_platform and python_version == '3.9'
+https://github.com/Blockstream/gdk/releases/download/release_0.0.54/greenaddress-0.0.54-cp39-cp39-macosx_12_0_x86_64.whl; 'darwin' in sys_platform and python_version == '3.9'
